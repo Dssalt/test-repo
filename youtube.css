@@ -1,0 +1,15 @@
+div.dismiss-button {
+	position: absolute;
+	font-size: 18pt;
+	text-align: center;
+	margin: 4px;
+	background: #000d;
+	font-family: monospace;
+	width: 28px;
+	height: 28px;
+	line-height: 24px;
+	opacity: 0;
+}
+
+div.dismiss-button:hover {background: #000; opacity: 1 !important;}
+ytd-rich-item-renderer:hover div.dismiss-button{opacity: .95;}
