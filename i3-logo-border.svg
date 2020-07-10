@@ -18,7 +18,7 @@
    sodipodi:docname="i3-logo-stripped-down-border.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
-   style="position: absolute; width: 1000px; scale: 1; padding: 50%;background: #222;">
+   style="position: absolute; /*width: 1000px; scale: 1; padding: 50%;background: #222*/;">
   <defs
      id="defs4">
     <linearGradient
